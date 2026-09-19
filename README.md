@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krish_verm74503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krish_verm74503" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krish verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish verma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishverma_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishverma_2006" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/krish-verma-0a484334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krish-verma-0a484334" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/krishverma_2006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/krishverma_2006/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishverma-2006&show_icons=true&locale=en" alt="krishverma-2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishverma-2006&" alt="krishverma-2006" /></p>
-
-
