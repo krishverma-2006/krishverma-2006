@@ -23,7 +23,7 @@ I’m a 3rd-year IT student at GJUST who thinks like a software engineer. I enjo
 ## 🚀 Featured project
 
 <a href="https://github.com/krishverma-2006/PROJECT-SIH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishverma-2006&repo=PROJECT-SIH&theme=transparent&hide_border=true" alt="Sovereign Agentic AI repository" />
+  <img src="https://icons8.com/icon/105278/project-management" alt="Sovereign Agentic AI repository" />
 </a>
 
 ## 📊 GitHub analytics
